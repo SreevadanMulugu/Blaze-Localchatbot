@@ -2,7 +2,7 @@
 A python based app which generates response to user queries locally .
 Here is a breif intro about the project 
 
-1. **Project Focus**: This project centers on On-Device Machine Learning Image generation.
+1. **Project Focus**: This project centers on On-Device Machine Learning Text generation.
 
 2. **Model Choice**: The project utilizes the Phi 3 mini 3.8B Instruct ,Llama3 8B Instruct models from Microsoft Research,Meta AI respectively known for its rapid and high-quality text generation capabilities.
 
